@@ -10,7 +10,7 @@ This program is only designed for one player.
 This program implements the functions of *Double-Down* and *Insurance*, but does not have the functions of *Split* or *Surrender*.
 
 ### Screenshot
-<img src="/Images/Screenshot.png" alt="Screenshot" width="60%" height="60%" />
+<img src="/Images/Screenshot.png" alt="Screenshot" width="70%" height="70%" />
 
 ### How to Run
 1. Click "Run" on the LabVIEW to execute the program.
@@ -26,12 +26,12 @@ whether Black-Jack, Insurance or Double-Down occurs, so it may seems very
 complicated :(
 
 The functions of all the sub VIs:  
-`DealerDraw.vi` is the program for dealer to draw a card.  
-`Draw.vi` draws a card from the deck, and return one id of the card.  
-`Judge.vi` compares the value of player's cards and dealer's cards.  
-`Result.vi` shows the result, and calculates the change of chips.  
-`ShowCards.vi` converts the id of card into the image, and shows the image.  
-`ShowCards(Cover).vi` covers the first card of dealer.  
-`Sum.vi` sums the value of cards.
+- `DealerDraw.vi` is the program for dealer to draw a card.  
+- `Draw.vi` draws a card from the deck, and return one id of the card.  
+- `Judge.vi` compares the value of player's cards and dealer's cards.  
+- `Result.vi` shows the result, and calculates the change of chips.  
+- `ShowCards.vi` converts the id of card into the image, and shows the image.  
+- `ShowCards(Cover).vi` covers the first card of dealer.  
+- `Sum.vi` sums the value of cards.
 
 The images of poker cards is downloaded from Wikipedia: https://en.wikipedia.org/wiki/File:Svg-cards-2.0.svg
