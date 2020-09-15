@@ -10,7 +10,7 @@ This program is only designed for one player.
 This program implements the functions of *Double-Down* and *Insurance*, but does not have the functions of *Split* or *Surrender*.
 
 ### Screenshot
-![Screenshot](/Images/Screenshot.png){:height="60%" width="60%"}
+<img src="/Images/Screenshot.png" alt="Screenshot" width="60%" height="60%" />
 
 ### How to Run
 1. Click "Run" on the LabVIEW to execute the program.
